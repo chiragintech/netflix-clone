@@ -3,7 +3,7 @@
 - Used React for the frontend and Firebase for hosting.
 
 
-## Check the website out here -> https://netflix-clone-7cb0f.web.app/
+## Check the website here -> https://netflix-clone-7cb0f.web.app/
 
 
 
